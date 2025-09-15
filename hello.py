@@ -8,4 +8,4 @@
 
 print("Hello, world!")
 print("My name is Joshua Edorodion")
-print("one of my hobbies are working out")
+print("my favourite hobbie is working out")
